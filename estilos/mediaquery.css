@@ -5,6 +5,7 @@
     }
     #login{
         width: 80vw;
+        height: 280px;
 
     }
     #img{
@@ -17,6 +18,7 @@
         width: 70%;
 
     }
+    
 }
 @media screen and (min-width:992px) {
     body{
@@ -24,6 +26,7 @@
     }
     #login{
         width: 950px;
+        height: 350px;
     }
     #img{
         float: right;
